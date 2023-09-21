@@ -1,7 +1,4 @@
 # coding=utf-8
-# coding by Romi Afrizal
-# Izin dlu lah bro kalau mau recode, gk ngotak njir _-
-# Note : jangan di ubah lagi! nanti error, script udah enak
 
 import os, sys, subprocess, platform
 try:
@@ -67,14 +64,14 @@ def ingfoh():
 f"""{Hj}
  • Info script :
  	
- - author      : Romi Afrizal
- - instagram   : romz_xyz
- - facebook    : facebook.com/romi.afrizal.102
- - fanspage    : facebook.com/100022086172556
- - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
- - script name : bff-2
- - version     : 1.3
+ - author      : Amsal
+ - instagram   : amsal_tampubolon_24
+ - facebook    : KOSONG 
+ - fanspage    : KOSONG 
+ - whatsap     : +6282267622725
+ - github      : github.com/Tuykul
+ - script name : PENGEMBANG
+ - version     : 1.4
  - update pada : 21 Februari 2022
  
 + ---------------------------------------- +
